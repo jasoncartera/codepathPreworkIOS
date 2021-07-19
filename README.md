@@ -18,6 +18,9 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
+![ezgif-3-917bd7d7d72f](https://user-images.githubusercontent.com/17489220/126239538-8cbe87bc-d60b-4d89-8ee2-de812d575d8a.gif)
+
+
 ## Notes
 
 I had trouble figuring out how to drag and drop the variables from the view screen. I wasn't sure if they were actually connecting to the app objects. 
