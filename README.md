@@ -27,7 +27,7 @@ I had trouble figuring out how to drag and drop the variables from the view scre
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Jason Carter
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
